@@ -2,7 +2,6 @@ primes = [2]
 current_test = 3
 
 
-print sieve_for_primes_to(104759)[10000]
 
 while len(primes) < 10001:
 	prime_divisble = False
